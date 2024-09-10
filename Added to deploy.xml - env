@@ -1,0 +1,23 @@
+[33mcommit 2348618721b0e9bff189f448fb4864b9b76c6f68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: RomanOstro <144029755+RomanOstro@users.noreply.github.com>
+Date:   Tue Sep 10 17:29:15 2024 +0300
+
+    Added to deploy.xml - env
+
+[33mcommit da427173ac6bf5d0bc4a41717cfd0aa1b2df0cf8[m
+Author: RomanOstro <144029755+RomanOstro@users.noreply.github.com>
+Date:   Tue Sep 10 17:20:13 2024 +0300
+
+    Rename Deploy static content -rename Deploy.yml
+
+[33mcommit 04769f797d81dc67ed893b8e987c7ef09afe9f17[m
+Author: RomanOstro <144029755+RomanOstro@users.noreply.github.com>
+Date:   Mon Sep 9 20:07:56 2024 +0300
+
+    Create Deploy static content
+
+[33mcommit ebb087d012ef758bbb6c42bbb85c4603e914dbc7[m
+Author: Maksim Ivanov <makes5712@gmail.com>
+Date:   Fri Mar 15 13:46:58 2024 +0300
+
+    Initial commit

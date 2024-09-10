@@ -1,6 +1,6 @@
-import { Card } from '../card-list/card-list';
+import { TCard } from '../card-list/card-list';
 import styles from './card.module.scss';
-type CardProps = Pick<Card, 'name'>;
+type CardProps = Pick<TCard, 'name'>;
 
 export default function Card({ name }: CardProps) {
 	return (
