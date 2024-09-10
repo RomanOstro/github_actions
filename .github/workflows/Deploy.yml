@@ -13,7 +13,7 @@ permissions:
   pages: write # разрешаем перезаписывать github page
   id-token: write # Разрешаем использовать GITHUB_TOKEN
 
-env: 
+env:
   PUBLIC_PATH: /github_actions/
 
 jobs: # Секция jobs определяет этапы процесса
